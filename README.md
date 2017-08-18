@@ -4,4 +4,4 @@ Website site for typing in HTML, CSS, Javascript and seeing the results. Similar
 
 ## Video Demo
 
-![codeplayergif]()
+![codeplayergif](https://github.com/afranco07/codePlayer/blob/master/codePlayerDemo.gif?raw=true)
